@@ -1,0 +1,29 @@
+{
+  "name": "expert-waddle",
+  "version": "1.0.0",
+  "description": "Express: Handling GET/POST requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serrano0811/expert-waddle.git"
+  },
+  "keywords": [
+    "Express",
+    "GET",
+    "POST",
+    "NodeJS/Express"
+  ],
+  "author": "Antonio Lopez Serrano <antonio.serrano0811@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serrano0811/expert-waddle/issues"
+  },
+  "homepage": "https://github.com/Serrano0811/expert-waddle#readme",
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "express": "^4.14.0"
+  }
+}
